@@ -14,16 +14,16 @@ fasta_to_one_line.pl input_fas_file.fas
 ##Example: 
 
 Input: 
->seq1
+\>seq1
 gcgggggttt
 taggtgatag
 
->seq2
+\>seq2
 tcatttatat
 caggtagtag
 
 Output:
->seq1
+\>seq1
 gcgggggttttaggtgatag
->seq2
+\>seq2
 tcatttatatcaggtagtag
